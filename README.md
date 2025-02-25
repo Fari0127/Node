@@ -1,4 +1,4 @@
-# NODETOMIC
+# Fari0127
 
 Minimalist boilerplate for **nodejs**, designed for vertical and horizontal scalability.
 
