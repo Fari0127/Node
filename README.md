@@ -18,7 +18,7 @@ Minimalist boilerplate for **nodejs**, designed for vertical and horizontal scal
 ## Installation
 
 ```bash
-git clone https://github.com/Fari027/nodetomic
+git clone https://github.com/Fari027
 cd Fari0127
 yarn
 ```
